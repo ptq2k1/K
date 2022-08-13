@@ -1,7 +1,7 @@
 # Created by nuvem and tsk 
   
  # Import modules 
- import os 
+ import os
  import sys 
  import argparse 
  from colorama import Fore 
